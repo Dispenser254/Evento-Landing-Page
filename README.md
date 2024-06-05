@@ -38,7 +38,7 @@ Evento Landing Page is a modern and responsive landing page template for event m
    ```bash
     npm run dev
    
-The application will be available at http://localhost:3000.
+The application will be available at http://localhost:5173.
 
 ## Usage
 - Customize the content in the client directory to suit your event needs.
