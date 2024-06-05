@@ -26,34 +26,35 @@ Evento Landing Page is a modern and responsive landing page template for event m
 - HTML/Tailwind CSS: Markup and styling
 
 ## Setup
-Clone the repository:
-    ```
+1. Clone the repository:
+    ```bash
     git clone https://github.com/Dispenser254/Evento-Landing-Page.git
     cd Evento-Landing-Page
     ```
-Install dependencies:
-sh
-Copy code
-npm install
-Run the development server:
-npm run dev
+2. Install dependencies:
+   ```bash
+    npm install
+3. Run the development server:
+   ```bash
+    npm run dev
+   
 The application will be available at http://localhost:3000.
 
-Usage
-Customize the content in the client directory to suit your event needs.
-Modify styles and components as required to fit your design.
+## Usage
+- Customize the content in the client directory to suit your event needs.
+- Modify styles and components as required to fit your design.
 
-Folder Structure
-client: Contains the React application code.
-.gitignore: Specifies files to be ignored by Git.
-README.md: Project documentation.
+## Folder Structure
+- client: Contains the React application code.
+- .gitignore: Specifies files to be ignored by Git.
+- README.md: Project documentation.
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 For any inquiries or support, please contact the repository owner at Dispenser254.
 
