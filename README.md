@@ -33,6 +33,7 @@ Evento Landing Page is a modern and responsive landing page template for event m
     ```
 2. Install dependencies:
    ```bash
+    cd client
     npm install
 3. Run the development server:
    ```bash
