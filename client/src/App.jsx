@@ -9,7 +9,7 @@ export default function App() {
       <Routes>
         <Route path="/cardsample" element={<CardSample />} />
         <Route path="/simplewebpage" element={<SimpleWebpage />} />
-        <Route path="/evento" element={<Evento />} />
+        <Route path="/" element={<Evento />} />
       </Routes>
     </BrowserRouter>
   );
